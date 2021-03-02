@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 20PX
+}
+
+body {
+    width: 100%;
+}
+
+.classe-css-utilisateur {
+    font-size: 22px;
+    color: royalblue;
+    margin: 10px auto;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: lightgray;
+    width: 75%;
+}
+.classe-css-utilisateur:hover {
+    background-color: darkgrey;
+}
